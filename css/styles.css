@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+html {font-size: 16px;}
+
+body {
+    background-color:#fa8108b6;
+}
+
+h1{
+    font-family: 'Mooli';
+    text-align: center;
+}
+
+
+div {
+    background-color:darkorange;
+    padding: 8px;
+    margin: auto;
+    text-align: center;
+    border-radius: 16px;
+}
+
+.cabecalho {
+    font-family: 'Oswald';
+    font-size: 1.4rem;
+}
+
+.objetivo {
+    font-family: 'Oswald';
+    font-size: 1.2rem;
+}
+
+.qualificacoes {
+    text-align: center;
+    font-size: 1.6rem;
+    font-family:'Oswald';
+}
+
+.resumo {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+
+.experiencia {
+    font-family:'Oswald';
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.empresa {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.cargo {
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.periodo {
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.descricao {
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.formacao{
+    font-family:'Oswald';
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.escolas{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+
+.interrompido{
+    font-family:'Oswald';
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.curso {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+
+.cursando{
+    font-family:'Oswald';
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.duracao {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+
+.linguagens {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.titulo {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+
+.javascript {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
