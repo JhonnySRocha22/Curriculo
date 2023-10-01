@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
 
-html {font-size: 16px;}
+html {font-size: 16px;
+    display:flex;
+}
 
 body {
     background-color:#fa8108b6;
@@ -10,6 +12,9 @@ body {
 h1{
     font-family: 'Mooli';
     text-align: center;
+    background-color: chocolate;
+    padding: 4px;
+    border-radius: 5px;
 }
 
 
@@ -35,6 +40,9 @@ div {
     text-align: center;
     font-size: 1.6rem;
     font-family:'Oswald';
+    background-color: chocolate;
+    padding: 4px;
+    border-radius: 5px;
 }
 
 .resumo {
@@ -46,6 +54,9 @@ div {
     font-family:'Oswald';
     text-align: center;
     font-size: 1.6rem;
+    background-color: chocolate;
+    padding: 4px;
+    border-radius: 5px;
 }
 
 .empresa {
@@ -74,6 +85,9 @@ div {
     font-family:'Oswald';
     text-align: center;
     font-size: 1.6rem;
+    background-color: chocolate;
+    padding: 4px;
+    border-radius: 5px;
 }
 
 .escolas{
@@ -85,6 +99,9 @@ div {
     font-family:'Oswald';
     text-align: center;
     font-size: 1.6rem;
+    background-color: chocolate;
+    padding: 4px;
+    border-radius: 5px;
 }
 
 .curso {
@@ -96,6 +113,9 @@ div {
     font-family:'Oswald';
     text-align: center;
     font-size: 1.6rem;
+    background-color: chocolate;
+    padding: 4px;
+    border-radius: 5px;
 }
 
 .duracao {
@@ -115,11 +135,15 @@ div {
 }
 
 .javascript {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1rem;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.4rem;
 }
 
-
+hr {
+    padding: 2px;
+    border-radius: 8px;
+}
 
 
 
